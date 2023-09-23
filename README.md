@@ -1,18 +1,16 @@
 # data_consulting_interview_assignment
 
-Which North American energy companies stand to benefit the most from implementing a
-carbon emissions reduction strategy? Energy companies across the globe are being pushed -
-both by consumer sentiment and government regulation - to reduce their carbon footprint. The
-impact of carbon reduction is different for every company, as the associated costs and benefits
-will differ. Using information from public data sources (such as the EPA emissions database or the
-Petrinex database), evaluate the groups of companies that would benefit the most from
-implementing a carbon reduction program.
+Is there an ideal strategy to trade stocks as a mom-and-pop investor?
+It is fairly common for people to invest and trade equity, whether this means trading stocks,
+indices, commodities, crypto assets, etc. Most proprietary traders have some sort of strategy
+they follow and many even build simple models to guide their trades.
+Using any data available to you, propose a strategy to maximize profit for a trader for a
+mom-and-pop investor. 
 
-
-Part b) Are there any similarities between the companies you identified as benefiting the
-most? Are they generally motivated by regulations or consumer preferences? If you were
-at a company who helped implement carbon reduction strategies, what would your pitch
-be to these energy companies?
+Evaluate the risk associated with following your proposed strategy. How can
+risk be quantified? How can risk be incorporated into the profitability of the strategy?
+How can the benefits and drawbacks of the strategy be articulated to a person with no
+data science background?
 
 
 Skills Legend:
