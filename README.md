@@ -35,3 +35,7 @@ Statistical/First Principles modeling:
 - Can you see the underlying physical/economics etc phenomena driving the
 process?
 - Do you use the right statistical methods to support your hypotheses?
+
+
+Service used for Data:
+https://www.alphavantage.co/documentation/

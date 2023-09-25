@@ -1,0 +1,21 @@
+possible financial products to buy:
+
+1) Series 1 savings bond --> adjusts for inflation
+   Risk: if inflation is low, then yield on investment is low
+
+2) Dividend stocks --> pay cash dividends, limits volitility,
+   preferred stocks    will fluctuate with market but might not fall
+                       too far when market is depressed.
+                       Can get chash from payout and still be able to
+                       sell stock if needed. Regular income
+  Risk: if company runs into tough time, it might have to trim or 
+        eliminate its dividend entierly wich could hurt the stock price
+
+3) Fixed annuities --> contract that will pay certain levels of income
+                       over time in exchange for upfront payment. Can
+                       contribute to this over time and get fixed values
+                       from it monthly at a future date. can provide
+                       guaranteed income.
+  Risk: notoriously complex, fairly illiquid (hard to get out of without
+        some sort of penalty). If inflation rises, then the payout isn't
+        as attractive as it was. 
